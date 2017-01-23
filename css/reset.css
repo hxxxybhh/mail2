@@ -1,0 +1,23 @@
+/*
+* @description: 重置
+* @author: wg
+*/
+html, body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+	outline: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+html {
+	/*height: 101%;*/
+	font-size: 16px;
+}
+body {
+	font-size: 0.875rem;
+	font-family: sans-serif;
+}
